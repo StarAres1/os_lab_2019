@@ -24,3 +24,23 @@
 ![alt text](image-2.png)
 ---
 
+```bash
+@StarAres1 ➜ /workspaces/os_lab_2019/lab3/src (master) $ gcc -o parallel_min_max parallel_min_max.c find_min_max.c utils.c -lm
+```  
+![alt text](image-3.png)
+
+# Задание 4
+
+---
+![alt text](image-5.png)
+---
+
+![alt text](image-4.png)
+
+# Задание 5
+
+---
+![alt text](image-6.png)
+---
+
+![alt text](image-7.png)
